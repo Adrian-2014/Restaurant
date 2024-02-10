@@ -1,0 +1,17 @@
+{
+  "name": "My Restaurant",
+  "short_name": "My-Resto",
+  "start_url": "/index.php",
+  "background_color": "black",
+  "description": "web pwa saya",
+  "display": "standalone",
+  "theme_color": "black",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
